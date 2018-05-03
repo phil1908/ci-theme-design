@@ -976,7 +976,7 @@ td>img {
 .section-header {
  margin:5px;
  padding:10px;
- font-size:1.2em;
+ font-size:1.2em!important;
  background-color:#3183c4;
  color:silver;
  text-transform:uppercase;
